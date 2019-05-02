@@ -2,7 +2,7 @@
 
 This is my portfolio in which shows my experience and background. 
 
-Consistent updates are added.
+Consistent updates are added 
 
 - Built with HTML, CSS, Javascript, Bootstrap, & jQuery
 
