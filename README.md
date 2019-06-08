@@ -1,6 +1,6 @@
 # Juan Carlos Jimenez
 
-This is my portfolio in which shows my experience and background. 
+This is my portfolio in which shows my experience and background through the years
 
 Consistent updates are added 
 
