@@ -2,7 +2,7 @@
 
 This is my portfolio in which shows my experience and background through the years
 
-Consistent updates are added 
 
-- Built with HTML, CSS, Javascript, Bootstrap, jQuery
+
+- Built with HTML, CSS, Javascript, Bootstrap, jQuery & a few plug ins
 https://carlosdevelops4.github.io/
